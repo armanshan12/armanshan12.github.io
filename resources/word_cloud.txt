@@ -1,0 +1,31 @@
+1	Go
+1	C
+1	Java
+1	Swift
+1	Objective-C
+1	Git
+1	UNIX
+1	Bash
+1	SQL
+1	OpenStack
+1	Hadoop
+1	Spark
+1	Docker
+1	Kubernetes
+1	iOS
+
+Go
+C
+Java
+Swift
+Objective-C
+Git
+UNIX
+Bash
+SQL
+OpenStack
+Hadoop
+Spark
+Docker
+Kubernetes
+iOS
